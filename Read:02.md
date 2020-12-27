@@ -1,4 +1,4 @@
-# Chapter 2: “Text” (pp.40-61)
+# Text 
 
     HTML elements are used to describe the structure of
     the page (e.g. headings, subheadings, paragraphs).
@@ -7,7 +7,7 @@
     emphasis should be placed, the definition of any
     acronyms used, when given text is a quotation)
 
-## Chapter 10: Ch.10 “Introducing CSS” (pp.226-245)
+# Introducing CSS 
     Color not only brings your site to life, but also helps convey the mood and evokes reactions.
     
      There are three ways to specify colors in CSS:RGB values, hex codes, and color names.
@@ -18,6 +18,8 @@
     CSS3 has introduced an extra value for RGB colors to indicate opacity. It is known as RGBA.
     
     CSS3 also allows you to specify colors as HSL values, with an optional opacity value. It is known as HSLA.
+
+
 
 # Basic JavaScript Instuction
 
