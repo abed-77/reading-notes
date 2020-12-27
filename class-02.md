@@ -5,5 +5,5 @@
     
 
 
-    See [Read:02](Read:02.md)
+    See [Read:02](https://abed-77.github.io/reading-notes/Read:02)
     
