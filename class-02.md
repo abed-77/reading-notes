@@ -4,6 +4,5 @@
     3- Scripting JS within the HTML document prefarably in ending <footer></footer> element.
     
 
-
     See [Read:02](https://abed-77.github.io/reading-notes/Read:02)
     
