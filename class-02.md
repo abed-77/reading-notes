@@ -3,5 +3,4 @@
     2- Styling html elements by: markdown tags <Style></style>, and style attributes.
     3- Scripting JS within the HTML document prefarably in ending <footer></footer> element.
     
-    [Read:02](https://abed-77.github.io/reading-notes/Read:02)
-    
+    See [Read:02](https://abed-77.github.io/reading-notes/Read:02)
